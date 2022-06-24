@@ -1,0 +1,8 @@
+ICSharpCode
+	- Zip Library (PAK)
+
+DeadZoneLuna (https://github.com/DeadZoneLuna)
+	- UV Texture Code
+
+ IsaiahKelly  (https://github.com/IsaiahKelly/quake3-movement-for-unity)
+	- Quake3 movement script for player controller

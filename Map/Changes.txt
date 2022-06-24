@@ -1,0 +1,4 @@
+C:\Users\Beedle\ReVamp the Masquerade Bloodlines\Assets\vampire\materials\building\labldgbs03lit.vmt
+C:\Users\Beedle\ReVamp the Masquerade Bloodlines\Assets\vampire\materials\building\labldgbs03.vmt
+	- Typo on envmapmask fixed
+	(07/02/21)
