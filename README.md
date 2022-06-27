@@ -1,4 +1,4 @@
-# Source-BSP-Loader-
+# VTMB BSP Loader
 Map importer for Valve's BSP File. Imports most geometry, triggers, as well as textures into the Unity Engine.
 Started as a personal project to import BSP files from Vampire: The Masquerade – Bloodlines.
 
